@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Winnie Yaa
 - 👀 I’m interested in data science and programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate in scientific computing and bid data analysis
+- 🌱 I’m currently learning masters in Mathematical Sciences at AIMS Senegal
+- 💞️ I’m looking to collaborate in scientific computing and big data analysis
 - 📫 How to reach me through email winnykadzo@gmail.com
 
 <!---
